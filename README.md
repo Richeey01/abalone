@@ -1,3 +1,6 @@
+CS32's student Abdikarimov Timur
+
+
 # Первичный анализ датасета Abalone
 
 ## Описание
